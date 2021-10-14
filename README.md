@@ -1,0 +1,2 @@
+# Logic-Test
+Function Palindrome
